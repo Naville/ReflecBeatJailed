@@ -1,0 +1,6 @@
+*.ipa
+.patchapp.cache
+*.o
+*.dylib
+obj/
+.DS_Store

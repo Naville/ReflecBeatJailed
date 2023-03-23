@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Artist</key>
+		<string>ARM(IOSYS) feat. miko &amp; キム</string>
+		<key>ID</key>
+		<integer>100000847</integer>
+		<key>ItemURL</key>
+		<string>http://dl.reflecbeat.konamionline.com/reflecbeat/data/100000847_XrEeu.rb</string>
+		<key>Name</key>
+		<string>オタサー☆レボリューション</string>
+		<key>iTunesURL</key>
+		<string>https://itunes.apple.com/jp/album/otasa-reboryushon/id922880796?i=922882899&amp;at=11lc22</string>
+	</dict>
+	<dict>
+		<key>Artist</key>
+		<string>岩橋星実(Elements Garden) feat.μ</string>
+		<key>ID</key>
+		<integer>100000848</integer>
+		<key>ItemURL</key>
+		<string>http://dl.reflecbeat.konamionline.com/reflecbeat/data/100000848_PkLD.rb</string>
+		<key>Name</key>
+		<string>Material Factor</string>
+		<key>iTunesURL</key>
+		<string>https://itunes.apple.com/jp/album/material-factor-feat.m/id1005315684?i=1005317163&amp;at=11lc22</string>
+	</dict>
+	<dict>
+		<key>Artist</key>
+		<string>OSTER project</string>
+		<key>ID</key>
+		<integer>100000849</integer>
+		<key>ItemURL</key>
+		<string>http://dl.reflecbeat.konamionline.com/reflecbeat/data/100000849_0sflSf.rb</string>
+		<key>Name</key>
+		<string>WICKeD CRφSS</string>
+		<key>iTunesURL</key>
+		<string>https://itunes.apple.com/jp/album/wicked-crphss/id922880796?i=922882908&amp;at=11lc22</string>
+	</dict>
+	<dict>
+		<key>Artist</key>
+		<string>Sota Fujimori</string>
+		<key>ID</key>
+		<integer>100000850</integer>
+		<key>ItemURL</key>
+		<string>http://dl.reflecbeat.konamionline.com/reflecbeat/data/100000850_MXr.rb</string>
+		<key>Name</key>
+		<string>Into UR Heart</string>
+		<key>iTunesURL</key>
+		<string>https://itunes.apple.com/jp/album/into-ur-heart-extended-mix/id919824668?i=919824677&amp;at=11lc22</string>
+	</dict>
+	<dict>
+		<key>Artist</key>
+		<string>DUALLELE（Akhuta＆DJ TOTTO）</string>
+		<key>ID</key>
+		<integer>100000843</integer>
+		<key>ItemURL</key>
+		<string>http://dl.reflecbeat.konamionline.com/reflecbeat/data/100000843_jxcoi.rb</string>
+		<key>Name</key>
+		<string>Guilty Destruction</string>
+		<key>iTunesURL</key>
+		<string>https://itunes.apple.com/jp/album/guilty-destruction/id922880796?i=922880879&amp;at=11lc22</string>
+	</dict>
+</array>
+</plist>
